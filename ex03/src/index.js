@@ -4,8 +4,6 @@ function function1() {
     notGlobalVariable = 5;
 }
 // Write code above this line
-console.log(typeof (myGlobalVariable));
-console.log(typeof (notGlobalVariable));
 function function2() {
     var result = "";
     if (typeof myGlobalVariable != "undefined") {
