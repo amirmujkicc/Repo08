@@ -15,5 +15,6 @@ console.log(mathTest(2, -2));
 console.log(mathTest(2, 8));
 console.log(mathTest(3, 3));
 console.log(mathTest(0, 0));
+mathTest();
 // Only change code above this line
 module.exports = mathTest;
